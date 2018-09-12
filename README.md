@@ -1,4 +1,4 @@
-# Clustering Usecase
+# Machine Learning Usecase
 
 To run it you can either:
 
